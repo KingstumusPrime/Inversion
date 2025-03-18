@@ -4,8 +4,7 @@ This repo is a stub for one of my first projects. I made the game in 48 hours fo
 
 ## Press
 
-[Video Interview](https://muckrack.com/broadcast/savedclips/view/8v96V3xQD9)
-[Article](https://www.abcactionnews.com/news/region-pinellas/11-year-old-st-petersburg-student-dazzles-teachers-by-creating-his-own-addictive-video-game)
+[Video Interview](https://muckrack.com/broadcast/savedclips/view/8v96V3xQD9) | [Article](https://www.abcactionnews.com/news/region-pinellas/11-year-old-st-petersburg-student-dazzles-teachers-by-creating-his-own-addictive-video-game)
 
 ## Gallary
 
